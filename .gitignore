@@ -1,0 +1,12 @@
+*.jpg
+*.wav
+*.avi
+*.pyc
+*.exe
+*.mp3
+*.rpa
+*.dll
+*.ttf
+__pycache__
+*.ico
+traceback.txt
