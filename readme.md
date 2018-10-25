@@ -11,4 +11,9 @@
 
 ## Descarga
 
-El juego está disponible para Windows. Podrás encontrarlo en la siguiente dirección: https://www.dropbox.com/s/8prhlchwbd4yhhq/Jim%20del%20Espacio%20Exterior%202.rar?dl=0
+El juego está disponible para distintos sistemas:
+
+- Windows: https://www.dropbox.com/s/prvy2p49sppazdu/Jim2-1.0-win.zip?dl=0
+- Mac: https://www.dropbox.com/s/stezrvj6314oky9/Jim2-1.0-mac.zip?dl=0
+- Linux: https://www.dropbox.com/s/a6bsi7bkgat8uea/Jim2-1.0-linux.tar.bz2?dl=0
+- Android: https://www.dropbox.com/s/pmz1216jvndrudu/JimdelEspacioExterior2-1.1-release.apk?dl=0
