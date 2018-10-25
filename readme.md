@@ -8,3 +8,7 @@
 - Más de 300 imágenes,
 - Múltiples localizaciones.
 - Centenares de referencias
+
+## Descarga
+
+El juego está disponible para Windows. Podrás encontrarlo en la siguiente dirección: https://www.dropbox.com/s/8prhlchwbd4yhhq/Jim%20del%20Espacio%20Exterior%202.rar?dl=0
