@@ -1,7 +1,7 @@
 # Jim del Espacio Exterior 2
 
 ## About
-. Jim del Espacio Exterior 2 is a Spanish visual novel developed with <a href= "https://renpy.org">Ren´py</a>. It is the continuation of a blog-game that you can find at the following address: http://jimdelespacioexterior.blogspot.com . It was coded in one month. I used multimedia from different sources since I am totally useless at drawing or composing music.
+Jim del Espacio Exterior 2 is a Spanish visual novel developed with <a href= "https://renpy.org">Ren´py</a>. It is the continuation of a blog-game that you can find at the following address: http://jimdelespacioexterior.blogspot.com . It was coded in one month. I used multimedia from different sources since I am totally useless at drawing or composing music.
 
 ## Features
 
